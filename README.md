@@ -1,4 +1,4 @@
-# SOC-Incident-Lab
+# SOC-Incident-Investigation-Lab
 Home SOC lab simulating real-world cyberattacks using Windows, Kali Linux, Sysmon, and Splunk for log analysis, detection, and incident investigation.
 
 # SOC Incident Investigation Lab
